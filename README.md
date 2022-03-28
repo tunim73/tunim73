@@ -1,7 +1,6 @@
-### Hi there 👋
 
-###Prazer Antonio ou Tunim, chame como quiser...
-###Aqui estão alguns projetinhos
+### Prazer Antonio ou Tunim, chame como quiser ( ͡❛ ͜ʖ ͡❛) ...
 
+Aqui estão os projetos que participo...
 
 
