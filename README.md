@@ -1,8 +1,9 @@
 ### Olá! eu sou o Antonio, mas pode me chamar de tunim se quiser 😁
 
-<div>
+<div style="display: block">
   <img align="center" height="50%" 
        src="https://github-readme-stats.vercel.app/api?username=tunim73&show_icons=true&theme=radical&hide=issues,prs&count_private=true">
+  <br>
   <img align="center" height="50%"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunim73&layout=compact&show_icons=true&theme=radical&count_private=true&langs_count=10">
 <div>
