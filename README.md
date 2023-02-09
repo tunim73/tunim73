@@ -1,15 +1,14 @@
 ### Olá! eu sou o Antonio, mas pode me chamar de tunim se quiser 😁
-
-<div style="display: block">
-  <img align="center" height="50%" 
+##
+<div align="center">
+<img align="center" width="40%" 
        src="https://github-readme-stats.vercel.app/api?username=tunim73&show_icons=true&theme=radical&hide=issues,prs&count_private=true">
-  <br>
-  <img align="center" height="50%"
+<img align="center"  width="35%" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunim73&layout=compact&show_icons=true&theme=radical&count_private=true&langs_count=10">
-<div>
+<div/>
 
 #### Aqui estão estão algumas das tecnologias que costumo usar 🤙
-<div style="display: inline_block">
+<div align="center" >
   <img align="center" alt="js" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" 
