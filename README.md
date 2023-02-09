@@ -1,5 +1,5 @@
-### Olá! eu sou o Antonio, mas pode me chamar de tunim se quiser 😁
-##
+<h3  align="center">Olá! eu sou o Antonio, mas pode me chamar de tunim se quiser 😁 <h3>
+<br>
 <div align="center">
     <div>
         <img align="center" width="47%" 
