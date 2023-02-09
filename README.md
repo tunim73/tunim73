@@ -1,4 +1,4 @@
-<h2 align="center">Olá! eu sou o Antonio, mas pode me chamar de tunim se quiser 😁 <h3>
+<h2 align="center">Olá! eu sou o Antonio, mas pode me chamar de tunim se quiser 😁<h2>
 <br>
 <div align="center">
     <div>
