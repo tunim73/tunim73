@@ -7,7 +7,7 @@
     <div/> <br>
     <div>
         <img align="center"  width="52%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunim73&layout=compact&show_icons=true&theme=radical&count_private=true&langs_count=10">    
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunim73&layout=compact&show_icons=true&theme=radical&count_private=true&langs_count=6">    
     <div/>
 <div/>
 <h4>Aqui estão estão algumas das tecnologias que costumo usar 🤙<h4/>
