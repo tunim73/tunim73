@@ -6,7 +6,7 @@
     <div/> <br>
     <div>
         <img align="center"  width="52%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunim73&layout=compact&show_icons=true&theme=radical&count_private=true&langs_count=8">    
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunim73&layout=compact&show_icons=true&theme=radical&count_private=true&langs_count=6&hide=blade,ejs,css,html">    
     <div/>
 <div/>
       <br>
