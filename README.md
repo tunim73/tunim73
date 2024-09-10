@@ -1,8 +1,8 @@
 <h2 align="center">Olá! eu sou o Antonio, mas pode me chamar de tunim se quiser 😏<h2>
 <div align="center">
     <div>
-        <img align="center"  width="50%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunim73&layout=compact&show_icons=true&theme=radical&count_private=true&langs_count=6&hide=blade,ejs,css,html">    
+        <img align="center"  width="100%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunim73&layout=compact&show_icons=true&theme=radical&count_private=true&langs_count=6&hide=blade,ejs,css,java,html">    
     <div/>
 <div/>
       <br>
